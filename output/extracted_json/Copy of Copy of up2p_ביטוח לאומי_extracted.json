@@ -1,0 +1,30 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_ביטוח לאומי.txt",
+    "processing_date": "2025-12-28T14:56:31.083132"
+  },
+  "patient_info": {
+    "dates_mentioned": [
+      "03.2040",
+      "06.2022"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "לא ידוע",
+      "condition_original": "לא מצוין",
+      "condition_hebrew": "לא מצוין",
+      "severity_indicators": {},
+      "chronic": false,
+      "date_injury": "06.2022",
+      "details": "אין פרטים נוספים על האבחנה"
+    }
+  ],
+  "work_capacity": {},
+  "additional_notes": "המסמך מתייחס לבקשה למתן טיפול רפואי לנפגע עבודה, אך חסרים פרטים על האבחנה והטיפולים.",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "חסר מידע",
+    "clarity": "מעורפל"
+  }
+}

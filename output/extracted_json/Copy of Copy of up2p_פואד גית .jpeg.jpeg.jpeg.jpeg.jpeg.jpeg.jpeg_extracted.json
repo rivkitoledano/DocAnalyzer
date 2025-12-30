@@ -1,0 +1,111 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_פואד גית .jpeg.jpeg.jpeg.jpeg.jpeg.jpeg.jpeg.txt",
+    "processing_date": "2025-12-28T14:57:17.659841"
+  },
+  "patient_info": {
+    "name": "גית פואד אלאסד",
+    "id": "50-7773877",
+    "dates_mentioned": [
+      "29/05/2021",
+      "04/04/2022",
+      "27/05/2024"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "CLOSED ANTERIOR DISLOCATION OF SHOULDER - RIGHT",
+      "condition_hebrew": "פריקה קדמית סגורה של כתף ימין",
+      "condition_medical_term": "פריקה קדמית של הכתף",
+      "icd10_code": "S43.01",
+      "severity": "חמור",
+      "severity_indicators": {
+        "pain_level": "לא מוזכר",
+        "functional_limitation": "מוגבל בתנועות הכתף עקב פחד מפריקה",
+        "frequency": "פריקות חוזרות",
+        "progression": "מחמיר"
+      },
+      "chronic": true,
+      "date_injury": "29/05/2021",
+      "details": "החמרה ביציבות הכתף בעת אירוע, פריקות חוזרות"
+    },
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "קרע נרחב של הלברום הקדמי",
+      "condition_hebrew": "קרע נרחב של הלברום הקדמי",
+      "condition_medical_term": "קרע לברום קדמי",
+      "icd10_code": "S43.43",
+      "severity": "חמור",
+      "severity_indicators": {
+        "pain_level": "לא מוזכר",
+        "functional_limitation": "קליקים בזמן התנועה",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "date_diagnosed": "04/04/2022",
+      "details": "קרע חלקי אחורי ועליון"
+    }
+  ],
+  "treatments": [
+    {
+      "type": "פיזיותרפיה",
+      "description": "הפניה לפיזיותרפיה",
+      "frequency": "לסירוגין",
+      "dependency_level": "תלות לסירוגין",
+      "effectiveness": "לא ידוע"
+    },
+    {
+      "type": "תרופתי",
+      "description": "תרופות נגד כאבים לפי הצורך",
+      "frequency": "לפי הצורך",
+      "dependency_level": "לא תלוי",
+      "effectiveness": "לא ידוע"
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MRI כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "04/04/2022",
+      "results_summary": "קרע נרחב של הלברום הקדמי, קרע חלקי אחורי ועליון",
+      "abnormal_findings": [
+        "קרע לברום קדמי",
+        "קרע חלקי אחורי ועליון"
+      ],
+      "clinical_significance": "מצביע על חוסר יציבות בכתף"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועות כתף",
+      "limitation_level": "מוגבל מאוד",
+      "description": "מוגבל בתנועות הכתף עקב פחד מפריקה",
+      "impact_on_daily_life": "משפיע על תפקוד יומיומי",
+      "requires_assistance": false
+    }
+  ],
+  "follow_up_required": [
+    {
+      "type": "ביקור אצל מומחה",
+      "specialist": "אורתופד",
+      "urgency": "רגיל",
+      "reason": "מעקב אחר מצב הכתף והחלטה על ניתוח"
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מוגבל בתנועות הכתף",
+    "recommended_accommodations": [
+      "הפחתת פעילות פיזית מאומצת"
+    ]
+  },
+  "additional_notes": "המטופל מעוניין בטיפול ניתוחי אך חושש מהתהליך השיקומי הארוך.",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "מלא",
+    "clarity": "ברור"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_PHOTO-2025-01-01-20-13-01.jpg.jpg ###.txt",
+    "processing_date": "2025-12-28T14:56:19.600550"
+  },
+  "patient_info": {
+    "dates_mentioned": [
+      "04/01/2023",
+      "14/02/2023"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף",
+      "condition_original": "בנקרט נרחב",
+      "condition_hebrew": "קרע נרחב בכתף",
+      "condition_medical_term": "קרע בלברום",
+      "icd10_code": "S43.43",
+      "severity": "חמור",
+      "severity_indicators": {
+        "functional_limitation": "הרמת משקל",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "details": "הקרע בכתף משפיע על היכולת להרים משקל"
+    }
+  ],
+  "treatments": [
+    {
+      "type": "תרופתי",
+      "description": "משככי כאבים",
+      "medication_name": "TRAMA Sewn",
+      "dosage": "10 מ\"ג, 1 טבליה",
+      "frequency": "יומי",
+      "dependency_level": "תלות קבועה",
+      "effectiveness": "מייצב"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "הרמת משקל",
+      "limitation_level": "מוגבל מאוד",
+      "description": "קושי בהרמת משקל עקב קרע בכתף",
+      "impact_on_daily_life": "משפיע על יכולת לבצע פעולות יומיומיות",
+      "requires_assistance": true
+    }
+  ],
+  "follow_up_required": [
+    {
+      "type": "ביקור אצל מומחה",
+      "specialist": "אורתופד",
+      "urgency": "רגיל",
+      "reason": "המשך טיפול ומעקב אחר מצב הכתף"
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מגבלות בהרמת משקל ועבודה פיזית",
+    "recommended_accommodations": [
+      "הפחתת עומס פיזי בעבודה"
+    ]
+  },
+  "additional_notes": "המסמך מכיל מידע מוגן על פי חוק.",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "חלקי",
+    "clarity": "מעורפל"
+  }
+}

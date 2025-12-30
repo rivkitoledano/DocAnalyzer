@@ -1,0 +1,88 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of WhatsApp Image 2025-07-28 at 11.16.44.txt",
+    "processing_date": "2025-12-28T14:57:38.379026"
+  },
+  "patient_info": {
+    "name": "ג'ית פואד אלאסד",
+    "dates_mentioned": [
+      "29/07/2022",
+      "29/08/2021",
+      "05/09/2021",
+      "18/06/2021",
+      "24/01/2023",
+      "26/07/2025",
+      "04/04/2022"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "BONY BANKART paint",
+      "condition_hebrew": "תת פריקות חוזרות של כתף ימין עם קרעים בלברום",
+      "condition_medical_term": "תת פריקה של הכתף עם קרעים בלברום",
+      "icd10_code": "S43.01",
+      "severity": "חמור",
+      "severity_indicators": {
+        "pain_level": "ממשיך כאב",
+        "functional_limitation": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב",
+        "frequency": "קבועה",
+        "progression": "מחמיר"
+      },
+      "chronic": true,
+      "date_diagnosed": "29/08/2021",
+      "date_injury": "29/08/2021",
+      "details": "מזה כ-10 שנים סובל מתת פריקות חוזרות של כתף ימין. הפריקה האחרונה לפני חצי שנה - החזיר את הכתף לבד."
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MRI כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "29/08/2021",
+      "results_summary": "חוסר יציבות בכתף עם קרעים בלברום",
+      "abnormal_findings": [
+        "חוסר יציבות בכתף",
+        "קרעים בלברום"
+      ],
+      "clinical_significance": "מצביע על בעיה כרונית בכתף ימין"
+    },
+    {
+      "test_type": "ארטרוגרם",
+      "test_name": "ארטרוגרם כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "04/04/2022",
+      "results_summary": "קרע נרחב של הלברום הקדמי, אחורי ועליון",
+      "abnormal_findings": [
+        "קרע נרחב של הלברום הקדמי",
+        "קרע אחורי",
+        "קרע עליון"
+      ],
+      "clinical_significance": "מצביע על בעיה חמורה בכתף ימין"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועות כתף",
+      "limitation_level": "מוגבל מאוד",
+      "description": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב",
+      "impact_on_daily_life": "מגביל את היכולת לבצע פעולות יומיומיות",
+      "requires_assistance": true
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מגבלות בתנועות כתף ימין",
+    "recommended_accommodations": [
+      "הפחתת עומסים על הכתף",
+      "הימנעות מהרמת משקלים כבדים"
+    ]
+  },
+  "additional_notes": "המסמך מכיל מידע מוגן על-פי חוק הגנת הפרטיות.",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "חלקי",
+    "clarity": "מעורפל"
+  }
+}

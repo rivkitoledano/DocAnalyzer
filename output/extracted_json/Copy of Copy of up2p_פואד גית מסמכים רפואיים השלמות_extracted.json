@@ -1,0 +1,143 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_פואד גית מסמכים רפואיים השלמות.txt",
+    "processing_date": "2025-12-28T14:57:26.466171"
+  },
+  "patient_info": {
+    "name": "פואד אלאסד חגאז ג'ית",
+    "id": "021671680",
+    "dates_mentioned": [
+      "18/09/2024",
+      "16/09/2024",
+      "04/04/2022",
+      "02/01/2017",
+      "26/07/2024"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "Hill-Sachs lesion",
+      "condition_hebrew": "נגע על שם היל-זקס",
+      "condition_medical_term": "נגע היל-זקס",
+      "icd10_code": "S42.0",
+      "severity": "בינוני",
+      "severity_indicators": {
+        "functional_limitation": "אי יציבות כתף",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "date_diagnosed": "04/04/2022",
+      "details": "שקע בהומרוס האחורי-עליון"
+    },
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "Tear in the anterior labrum",
+      "condition_hebrew": "קרע בלברום הקדמי",
+      "condition_medical_term": "קרע בלברום",
+      "icd10_code": "S43.4",
+      "severity": "חמור",
+      "severity_indicators": {
+        "functional_limitation": "אי יציבות כתף",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "date_diagnosed": "04/04/2022",
+      "details": "קרע נרחב בלברום הקדמי, העליון והאחורי"
+    },
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "Partial tear of the supraspinatus tendon",
+      "condition_hebrew": "קרע חלקי בגיד הסופרה-ספינטוס",
+      "condition_medical_term": "קרע חלקי בגיד הסופרה-ספינטוס",
+      "icd10_code": "M75.1",
+      "severity": "בינוני",
+      "severity_indicators": {
+        "functional_limitation": "הגבלה בתנועה",
+        "frequency": "קבועה",
+        "progression": "מחמיר"
+      },
+      "chronic": true,
+      "date_diagnosed": "04/04/2022",
+      "details": "קרע חלקי קטן בגיד הסופרה-ספינטוס הדיסטלי"
+    },
+    {
+      "body_part": "יד ימין",
+      "condition_original": "Carpal tunnel syndrome",
+      "condition_hebrew": "תסמונת התעלה הקרפלית",
+      "condition_medical_term": "תסמונת התעלה הקרפלית",
+      "icd10_code": "G56.0",
+      "severity": "קל",
+      "severity_indicators": {
+        "functional_limitation": "תחושת נימול",
+        "frequency": "לסירוגין",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "date_diagnosed": "18/09/2024",
+      "details": "פגיעה אקסונלית של הפלקסוס הברכיאלי"
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MR ארתרוגרפיה",
+      "body_part": "כתף ימין",
+      "date": "16/09/2024",
+      "results_summary": "שינויים המתאימים לאי יציבות קדמית ונגע על שם היל-זקס",
+      "abnormal_findings": [
+        "קרע בלברום הקדמי",
+        "קרע בלברום העליון",
+        "קרע בלברום האחורי",
+        "קרע חלקי בגיד הסופרה-ספינטוס"
+      ],
+      "clinical_significance": "אי יציבות כתף"
+    },
+    {
+      "test_type": "CT",
+      "test_name": "סריקה טומוגרפית",
+      "body_part": "כתף ימין",
+      "date": "26/07/2024",
+      "results_summary": "עיוות אנטומי של גלנואיד",
+      "abnormal_findings": [
+        "שינויים פוסט-חבלתיים"
+      ],
+      "clinical_significance": "שינויים פוסט-חבלתיים"
+    },
+    {
+      "test_type": "EMG",
+      "test_name": "בדיקת EMG",
+      "body_part": "יד ימין",
+      "date": "18/09/2024",
+      "results_summary": "פגיעה אקסונלית של הפלקסוס הברכיאלי",
+      "abnormal_findings": [
+        "תסמונת התעלה הקרפלית"
+      ],
+      "clinical_significance": "פגיעה עצבית קלה"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועה בכתף",
+      "limitation_level": "מוגבל מאוד",
+      "description": "אי יציבות כתף",
+      "impact_on_daily_life": "מגבלה בתפקוד יומיומי",
+      "requires_assistance": true
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מגבלות בתנועה וביציבות הכתף",
+    "recommended_accommodations": [
+      "הפחתת עומס על הכתף",
+      "הימנעות מהרמת משקלים כבדים"
+    ]
+  },
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "מלא",
+    "clarity": "ברור"
+  }
+}

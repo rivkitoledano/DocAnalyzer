@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# RAG System files
+legal_data*.json
+rag_index.faiss
+rag_metadata.pkl
+*.faiss
+*.pkl
+
+# Medical records (privacy)
+medical_records/
+*.txt
+medical_*.txt
+*_analysis.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp_*.txt
+downloaded_file_*.txt
+
+# API keys (if saved separately)
+.env
+config_local.py
+
+output/

@@ -1,0 +1,88 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_סיכום אורתופדיה 5_9_21.txt",
+    "processing_date": "2025-12-28T14:56:56.407646"
+  },
+  "patient_info": {
+    "name": "ג'ית פואד אלאסד חגאז",
+    "id": "2036022",
+    "dates_mentioned": [
+      "05/09/2021",
+      "04/07/1985",
+      "29/05/2021",
+      "15/06/2021",
+      "11/07/2021",
+      "28/08/2021"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "DISLOCATION SHOULDER ANTERIOR CLOSED, BONY BANKART RT SHOULDER",
+      "condition_hebrew": "פריקה קדמית סגורה של כתף ימין, בנקארט גרמי בכתף ימין",
+      "condition_medical_term": "פריקה קדמית של הכתף עם בנקארט גרמי",
+      "icd10_code": "S43.01",
+      "severity": "חמור",
+      "severity_indicators": {
+        "pain_level": "לא מצוין",
+        "functional_limitation": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב פנימי",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": true,
+      "date_diagnosed": "29/05/2021",
+      "date_injury": "29/05/2021",
+      "details": "סובל מתת פריקות חוזרות של כתף ימין מזה כ-10 שנים"
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MRI כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "לא עבר את הבדיקה",
+      "results_summary": "לא בוצע",
+      "clinical_significance": "לא ניתן לקבוע"
+    },
+    {
+      "test_type": "רנטגן",
+      "test_name": "צילום כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "29/05/2021",
+      "results_summary": "פרגמנט עצם חופשי מנותק קדמית לגלינואיד",
+      "abnormal_findings": [
+        "פרגמנט עצם חופשי"
+      ],
+      "clinical_significance": "מצביע על פגיעה מבנית בכתף"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועות כתף",
+      "limitation_level": "מוגבל מאוד",
+      "description": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב פנימי",
+      "impact_on_daily_life": "משפיע על יכולת לבצע פעולות יומיומיות הדורשות תנועת כתף",
+      "requires_assistance": true
+    }
+  ],
+  "follow_up_required": [
+    {
+      "type": "ביקור אצל מומחה",
+      "specialist": "רפואה תעסוקתית",
+      "urgency": "רגיל",
+      "reason": "הפניה לרפואה תעסוקתית בעקבות תאונת עבודה"
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מגבלות בתנועות כתף ימין",
+    "recommended_accommodations": [
+      "התאמות בעבודה המאפשרות מנוחה לכתף"
+    ]
+  },
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "מלא",
+    "clarity": "ברור"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_סיכום שחרור 29_5_21.txt",
+    "processing_date": "2025-12-28T14:57:09.762105"
+  },
+  "patient_info": {
+    "name": "ג'ית פואד",
+    "id": "021671680",
+    "dates_mentioned": [
+      "29/05/2021",
+      "04/07/1985"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "FALL FROM OTHER SLIPPING, TRIPPING, OR STUMBLING; FALL ON MOVING SIDEWALK",
+      "condition_hebrew": "נפילה מהחלקה, מעידה או התקלות; נפילה על מדרכה נעה",
+      "condition_medical_term": "נפילה",
+      "icd10_code": "W01",
+      "severity": "בינוני",
+      "severity_indicators": {
+        "pain_level": "כאב בעיקר בכתף ימין",
+        "functional_limitation": "מוגבלות בתנועה עקב כאבים",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": false,
+      "date_diagnosed": "29/05/2021",
+      "date_injury": "29/05/2021",
+      "details": "סיפורים חוזרים של פריקות כתף ימין, אירוע אחרון לפני שנתיים"
+    },
+    {
+      "body_part": "ירך ימין",
+      "condition_original": "כאבים בפלג גוף ימין",
+      "condition_hebrew": "כאבים בירך ימין",
+      "condition_medical_term": "כאב בירך",
+      "severity": "בינוני",
+      "severity_indicators": {
+        "pain_level": "כאב בעיקר בירך ימין",
+        "functional_limitation": "מוגבלות בתנועה עקב כאבים",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": false,
+      "date_diagnosed": "29/05/2021",
+      "date_injury": "29/05/2021",
+      "details": "רגישות בעת הנעת אגן"
+    },
+    {
+      "body_part": "גב תחתון",
+      "condition_original": "כאבים בפלג גוף ימין",
+      "condition_hebrew": "כאבים בגב תחתון",
+      "condition_medical_term": "כאב בגב תחתון",
+      "severity": "בינוני",
+      "severity_indicators": {
+        "pain_level": "כאב בעיקר בגב תחתון",
+        "functional_limitation": "מוגבלות בתנועה עקב כאבים",
+        "frequency": "קבועה",
+        "progression": "יציב"
+      },
+      "chronic": false,
+      "date_diagnosed": "29/05/2021",
+      "date_injury": "29/05/2021",
+      "details": "רגישות במישוש ע.ש מותני בלבד"
+    }
+  ],
+  "treatments": [
+    {
+      "type": "תרופתי",
+      "description": "משככי כאבים לפי הצורך",
+      "medication_name": "Tramadol",
+      "dosage": "100 mg",
+      "frequency": "לפי הצורך",
+      "dependency_level": "לא תלוי",
+      "start_date": "29/05/2021",
+      "effectiveness": "משפר"
+    },
+    {
+      "type": "תרופתי",
+      "description": "תרופה נגד בחילות",
+      "medication_name": "Metoclopramide",
+      "dosage": "10 mg",
+      "frequency": "לפי הצורך",
+      "dependency_level": "לא תלוי",
+      "start_date": "29/05/2021",
+      "effectiveness": "משפר"
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MRI ארתרוגרם של כתף ימין",
+      "body_part": "כתף ימין",
+      "clinical_significance": "נדרש בשל פריקות חוזרות"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועה",
+      "limitation_level": "מוגבל מעט",
+      "description": "מוגבלות בתנועה עקב כאבים בכתף ימין, ירך ימין וגב תחתון",
+      "impact_on_daily_life": "מגביל את התנועה היומיומית",
+      "requires_assistance": false
+    }
+  ],
+  "follow_up_required": [
+    {
+      "type": "ביקור אצל מומחה",
+      "specialist": "מומחה כתף",
+      "urgency": "רגיל",
+      "reason": "מעקב אחרי ביצוע MRI"
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מוגבלות בתנועה עקב כאבים",
+    "recommended_accommodations": [
+      "מנוחה בבית שבוע"
+    ]
+  },
+  "additional_notes": "במקרה החמרה יש לפנות לטיפול רפואי.",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "מלא",
+    "clarity": "ברור"
+  }
+}

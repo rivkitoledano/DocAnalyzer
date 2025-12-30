@@ -1,0 +1,118 @@
+{
+  "file_metadata": {
+    "filename": "Copy of Copy of up2p_אורטופדיה 20_7_22.txt",
+    "processing_date": "2025-12-28T14:56:28.291573"
+  },
+  "patient_info": {
+    "name": "ג'ית פואד אלאסד",
+    "id": "00021671680",
+    "dates_mentioned": [
+      "04/07/1985",
+      "29/05/2021",
+      "05/09/2021",
+      "15/06/2021",
+      "04/04/2022",
+      "20/07/2022"
+    ]
+  },
+  "diagnoses": [
+    {
+      "body_part": "כתף ימין",
+      "condition_original": "DISLOCATION SHOULDER ANTERIOR CLOSED, BONY BANKART RT SHOULDER, SHOULDER INSTABILITY RT",
+      "condition_hebrew": "פריקת כתף קדמית סגורה, נגע בנקרט גרמי בכתף ימין, חוסר יציבות של כתף ימין",
+      "condition_medical_term": "פריקת כתף קדמית, נגע בנקרט גרמי, חוסר יציבות כתף",
+      "icd10_code": "S43.01",
+      "severity": "חמור",
+      "severity_indicators": {
+        "pain_level": "לא מוזכר",
+        "functional_limitation": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב פנימי",
+        "frequency": "קבועה",
+        "progression": "מחמיר"
+      },
+      "chronic": true,
+      "date_diagnosed": "לא ידוע",
+      "date_injury": "29/05/2021",
+      "details": "מזה כ-10 שנים סובל מתת פריקות חוזרות של כתף ימין"
+    }
+  ],
+  "treatments": [
+    {
+      "type": "תרופתי",
+      "description": "PERMIXON (I) CAP 160MG",
+      "medication_name": "PERMIXON",
+      "dosage": "160MG",
+      "frequency": "לא ידוע",
+      "dependency_level": "לא תלוי",
+      "start_date": "לא ידוע",
+      "duration": "לא ידוע",
+      "effectiveness": "לא ידוע",
+      "side_effects": "לא מוזכר"
+    }
+  ],
+  "surgeries": [
+    {
+      "procedure_name_original": "BRISTO-LATERJET",
+      "procedure_name_hebrew": "ניתוח בריסטו-לטרז'ה",
+      "body_part": "כתף ימין",
+      "planned": true,
+      "outcome": "ממתין",
+      "complications": "לא ידוע"
+    }
+  ],
+  "medical_tests": [
+    {
+      "test_type": "MRI",
+      "test_name": "MRI כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "לא ידוע",
+      "results_summary": "אובחן BONY BANKART",
+      "abnormal_findings": [
+        "BONY BANKART"
+      ],
+      "clinical_significance": "נגע בנקרט גרמי"
+    },
+    {
+      "test_type": "MRA",
+      "test_name": "ארטרוגרם כתף ימין",
+      "body_part": "כתף ימין",
+      "date": "04/04/2022",
+      "results_summary": "קרע נרחב של הלברום הקדמי, אחורי ועליון",
+      "abnormal_findings": [
+        "קרע נרחב של הלברום הקדמי",
+        "קרע קטן אחורי ועליון"
+      ],
+      "clinical_significance": "חוסר יציבות כתף"
+    }
+  ],
+  "functional_limitations": [
+    {
+      "activity": "תנועות כתף",
+      "limitation_level": "מוגבל מאוד",
+      "description": "הגבלה קשה בתנועות כתף ימין בכל הכיוונים ובעיקר בסיבוב פנימי",
+      "impact_on_daily_life": "משפיע על יכולת לבצע פעולות יומיומיות",
+      "requires_assistance": true
+    }
+  ],
+  "follow_up_required": [
+    {
+      "type": "ביקור אצל מומחה",
+      "specialist": "אורתופד",
+      "urgency": "רגיל",
+      "reason": "חוסר יציבות של כתף ימין ונגע בנקרט נרחב"
+    }
+  ],
+  "work_capacity": {
+    "can_work": "באופן מוגבל",
+    "limitations": "מגבלות בתנועות כתף ימין",
+    "recommended_accommodations": [
+      "הפחתת עומס על הכתף",
+      "הימנעות מהרמת משקלים כבדים"
+    ]
+  },
+  "additional_notes": "המטופל מעשן כבד מאז 01/01/2009",
+  "document_quality": {
+    "ocr_quality": "בינוני",
+    "completeness": "מלא",
+    "clarity": "ברור"
+  }
+}
